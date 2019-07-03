@@ -25,7 +25,9 @@ Follow the file structure as:
     └── train.py
 ```
 Use the build_dataset.py file to re-arrange the images in `dogs-vs-cats` into corresponding splits in `dataset` directory.
+
 This method is called **Transfer Learning**.
+
 ![](https://www.pyimagesearch.com/wp-content/uploads/2019/06/fine_tuning_keras_freeze_unfreeze.png)
 
 Picture credit : https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning.
